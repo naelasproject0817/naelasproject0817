@@ -1,5 +1,5 @@
 # Hi, I'm Naela Arbach 👋
-Accounting graduate transitioning into **Data Analytics**, backed by hands-on experience in data verification, process improvement, and numerical accuracy from a travel operations background. Skilled in **Excel, SQL, Python, Power BI, and Looker Studio**, with a growing portfolio of dashboard and analytics projects (e-commerce sales, RFM segmentation, product retention). Detail-oriented, data-driven, and committed to supporting business growth through data-informed decisions.
+Accounting graduate transitioning into **Data Analytics**, backed by hands-on experience in data verification, process improvement, and numerical accuracy from a travel operations background. Skilled in **Excel, SQL, Python, Power BI, and Tableau**, with a growing portfolio of dashboard and analytics projects (e-commerce sales, RFM segmentation, product retention). Detail-oriented, data-driven, and committed to supporting business growth through data-informed decisions.
 
 ---
 
