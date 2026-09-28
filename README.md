@@ -1,12 +1,4 @@
 # Hi, I'm Naela Arbach 👋
-
-**Accounting Graduate | Data Analyst Enthusiast**  
-📍 Semarang, Indonesia | ✉️ naelasproject0817@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/naelaarbach/|)
-
----
-
-### 👤 Profile Summary
-
 Accounting graduate transitioning into **Data Analytics**, backed by hands-on experience in data verification, process improvement, and numerical accuracy from a travel operations background. Skilled in **Excel, SQL, Python, Power BI, and Looker Studio**, with a growing portfolio of dashboard and analytics projects (e-commerce sales, RFM segmentation, product retention). Detail-oriented, data-driven, and committed to supporting business growth through data-informed decisions.
 
 ---
@@ -19,15 +11,6 @@ Accounting graduate transitioning into **Data Analytics**, backed by hands-on ex
 - **Spreadsheets**: Microsoft Excel (Advanced Data Validation, Formulas, Power Query, Reporting)
 - **Tools & Platforms**: Salesforce, Google Workspace, Lark
 - **Core Competencies**: Data Verification, Data Auditing, Business Research, Process Improvement, Problem Solving
-
----
-
-### 📂 Featured Projects & Portfolio
-
-- **[Flight Pricing and Route Performance Dashboard](https://github.com/naelasproject0817)**  
-  *Analyzing flight ticketing datasets, pricing dynamics, and route performance.*
-- **[Bicycle Sales Performance Dashboard](https://github.com/naelasproject0817)**  
-  *Visualizing retail sales metrics, customer purchasing patterns, and revenue trends.*
 
 ---
 
